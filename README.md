@@ -95,4 +95,4 @@ Clean, tested, documented code delivered fast. I only take projects that respect
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE)
