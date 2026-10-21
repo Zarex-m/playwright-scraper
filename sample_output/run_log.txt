@@ -1,0 +1,23 @@
+2026-10-21 08:41:28,378 INFO    quote_scraper.scraper: Fetching page 1: https://quotes.toscrape.com/js/
+2026-10-21 08:41:29,305 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:29,305 INFO    quote_scraper.scraper: Fetching page 2: https://quotes.toscrape.com/js/page/2/
+2026-10-21 08:41:29,537 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:29,806 INFO    quote_scraper.scraper: Fetching page 3: https://quotes.toscrape.com/js/page/3/
+2026-10-21 08:41:30,032 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:30,306 INFO    quote_scraper.scraper: Fetching page 4: https://quotes.toscrape.com/js/page/4/
+2026-10-21 08:41:30,536 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:30,806 INFO    quote_scraper.scraper: Fetching page 5: https://quotes.toscrape.com/js/page/5/
+2026-10-21 08:41:31,031 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:31,306 INFO    quote_scraper.scraper: Fetching page 6: https://quotes.toscrape.com/js/page/6/
+2026-10-21 08:41:31,530 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:31,806 INFO    quote_scraper.scraper: Fetching page 7: https://quotes.toscrape.com/js/page/7/
+2026-10-21 08:41:32,034 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:32,306 INFO    quote_scraper.scraper: Fetching page 8: https://quotes.toscrape.com/js/page/8/
+2026-10-21 08:41:32,568 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:32,807 INFO    quote_scraper.scraper: Fetching page 9: https://quotes.toscrape.com/js/page/9/
+2026-10-21 08:41:33,036 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:33,307 INFO    quote_scraper.scraper: Fetching page 10: https://quotes.toscrape.com/js/page/10/
+2026-10-21 08:41:33,532 INFO    quote_scraper.scraper:   -> 10 quotes
+2026-10-21 08:41:33,566 INFO    quote_scraper.scraper: Done: 100 quotes from 10 pages
+2026-10-21 08:41:33,567 INFO    root: Wrote sample_output/quotes.json
+2026-10-21 08:41:33,567 INFO    root: Wrote sample_output/quotes.csv

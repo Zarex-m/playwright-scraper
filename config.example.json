@@ -1,0 +1,9 @@
+{
+  "mode": "js",
+  "max_pages": 0,
+  "delay": 1.0,
+  "retries": 3,
+  "backoff": 2.0,
+  "output_dir": "output",
+  "formats": ["csv", "json"]
+}
